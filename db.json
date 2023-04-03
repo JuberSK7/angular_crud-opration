@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "firstName": "Shaikh",
+      "lastName": "Zuber",
+      "email": "shaikhj2001@gmai.com",
+      "password": "Pass@143",
+      "mobile": 9595959595
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
